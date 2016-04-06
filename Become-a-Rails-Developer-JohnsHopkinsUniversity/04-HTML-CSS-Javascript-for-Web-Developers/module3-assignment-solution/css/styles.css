@@ -1,0 +1,46 @@
+.navbar-brand {
+    font-size: 2em;
+}
+
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#nav-list a {
+    color: black;
+    text-align: center;
+    font-size: 1.3em;
+/*     background-color: lightgray; */
+border: 0.1px solid;
+}
+
+#nav-list a:hover {
+    background: grey;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+h1 {
+    text-align: center;
+    font-size: 175%;
+}
+
+div#section {
+    background-color: lightgray;
+    font-family: Helvetica;
+    color: black;
+    border: 2px solid black;
+    margin-bottom:45px ;
+}
+
+#content {
+    margin: 0 5px 0 5px;
+    padding: 0 5px 0 5px;
+}
+
+span {
+    font-size: 1.25 em;
+    text-align: center;
+}
